@@ -1,0 +1,11 @@
+test ID,command
+1,ping cnn.com --directory-prefix=cnn.com
+2,wget http://news.bbc.co.uk   --directory-prefix=news.bbc.co.uk
+3,wget foxnews.com   --directory-prefix=foxnews.com
+4,wget news.google.com   --directory-prefix=news.google.com
+5,wget news.yahooo.com   --directory-prefix=news.yahooo.com
+6,wget http://www.washingtonpost.com/   --directory-prefix=www.washingtonpost.com
+7,wget http://www.wsj.com/   --directory-prefix=www.wsj.com
+8,wget www.usatoday.com   --directory-prefix=www.usatoday.com
+9,wget http://www.ynetnews.com   --directory-prefix=www.ynetnews.com
+10,wget walla.co.il   --directory-prefix=walla.co.il
