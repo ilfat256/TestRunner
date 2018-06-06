@@ -43,8 +43,8 @@
   <ItemGroup>
     <Compile Include="Job\IJobManager.cs" />
     <Compile Include="Job\ProcessJobManagerException.cs" />
-    <Compile Include="Log\ILogger.cs" />
-    <Compile Include="Log\ConcurrentLogAccumulator.cs" />
+    <Compile Include="Logger\ILogger.cs" />
+    <Compile Include="Logger\ConcurrentLogAccumulator.cs" />
     <Compile Include="MultiThreadRunner.cs" />
     <Compile Include="Job\ProcessJobManager.cs" />
     <Compile Include="MultiThreadRunnerException.cs" />
